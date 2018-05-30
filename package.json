@@ -1,0 +1,24 @@
+{
+  "name": "pos",
+  "version": "1.0.0",
+  "description": "\"收银机\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiqiujuan/pos.git"
+  },
+  "keywords": [
+    "pos",
+    "es6",
+    "oo"
+  ],
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "babel-preset-es2015": "^6.9.0"
+  },
+  "author": "weiqiujuan",
+  "license": "ISC"
+}
